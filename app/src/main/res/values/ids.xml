@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="detail_movie_cover" type="id" />
+    <item name="linearLayout" type="id" />
+</resources>
